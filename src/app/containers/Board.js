@@ -3,7 +3,6 @@ import { bindActionCreators } from 'redux';
 import { connect } from 'react-redux';
 import FetchData from '../actions/FetchData';
 import Product from '../components/Product';
-import SingleProduct from '../components/SingleProduct';
 
 class Board extends React.Component {
 
